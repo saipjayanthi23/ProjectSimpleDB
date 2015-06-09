@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SimpleDB">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/img"/>
+        <property name="context-root" value="SimpleDB"/>
+        <property name="java-output-path" value="/SimpleDB/build/classes"/>
+    </wb-module>
+</project-modules>
